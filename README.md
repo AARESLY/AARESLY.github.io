@@ -1,5 +1,4 @@
 # AARESLY.github.io
-<!DOCTYPE html>
 <html>
 <head>
     <title>My Profile</title>
