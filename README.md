@@ -1,1 +1,22 @@
 # AARESLY.github.io
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Profile</title>
+</head>
+<body>
+
+    <h1>My Profile</h1>
+
+    <h2>About Me</h2>
+    <p>I am a student who likes technology and games.</p>
+
+    <h2>My Hobbies</h2>
+    <ul>
+        <li>Gaming</li>
+        <li>Reading</li>
+        <li>Watching Movies</li>
+    </ul>
+
+</body>
+</html>
